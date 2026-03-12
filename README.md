@@ -97,17 +97,3 @@ Main columns include:
 * Some incident categories appear to be routed to non-specialized teams.
 
 ---
-
-## Project Structure
-
-```
-incident-analysis
-│
-├── data
-│   incidents.csv
-│
-├── notebooks
-│   EDA.ipynb
-│
-└── README.md
-```
