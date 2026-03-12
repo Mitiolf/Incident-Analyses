@@ -10,8 +10,6 @@ The goal of this analysis is to understand how incidents are distributed across 
 
 ## Business Questions
 
-The analysis focuses on answering the following questions:
-
 **Operational:**
 
 * Which teams are the slowest to resolve incidents?
