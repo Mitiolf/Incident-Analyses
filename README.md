@@ -95,16 +95,8 @@ Main columns include:
 ## Key Insights
 
 * Application incidents represent the largest share of total incidents.
-* Weekend incidents tend to have longer resolution times.
+* Weekend incidents tend to have shorter resolution times.
 * Some incident categories appear to be routed to non-specialized teams.
-
----
-
-## Business Recommendations
-
-1. Improve incident routing to ensure tickets are assigned to the correct specialist teams.
-2. Improve knowledge base documentation to reduce incident reopen rates.
-3. Introduce automated categorization to improve Service Desk efficiency.
 
 ---
 
