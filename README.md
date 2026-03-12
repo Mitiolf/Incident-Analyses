@@ -121,9 +121,3 @@ incident-analysis
 │
 └── README.md
 ```
-
-## Future Improvements
-
-* Build an interactive dashboard (Power BI / Tableau)
-* Add incident trend analysis over time
-* Develop predictive models for SLA breach risk
