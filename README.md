@@ -95,5 +95,6 @@ Main columns include:
 * Application incidents represent the largest share of total incidents.
 * Weekend incidents tend to have shorter resolution times.
 * Some incident categories appear to be routed to non-specialized teams.
+* Most incidents occurred in March.
 
 ---
